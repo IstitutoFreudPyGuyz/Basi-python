@@ -13,5 +13,5 @@ Right now, we're diving nose-first into Python 🐍, exploring its capabilities,
 GitHub Newbies 🌱
 Yeah, we're new to the GitHub scene. Expect some chaos, fun, and (hopefully) growth as we navigate through this exciting platform.
 
-Our Mantra 🚴‍♂️
-Teamwork! That's the secret sauce. We believe in joining forces, learning from mishaps, and celebrating every little win together.
+Our Philosophy 🧠
+Stay Curious, Stay Bold! 😼 We believe in embracing our curiosity, venturing into unknown territories, and always being bold enough to press the 'Run Code' button, even when we’re not entirely sure what might happen. It's through curiosity and a dash of boldness that we learn, grow, and discover new possibilities in the enchanting worlds of code and beyond.
